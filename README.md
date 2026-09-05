@@ -1,5 +1,7 @@
 # Shoe Visual Search
 
+Link: https://huggingface.co/spaces/saurabh0568/Visual-Search
+
 Upload a photo of a shoe and instantly find visually similar products from a catalog
 of **8,783 shoes** (UT-Zappos50K dataset). The system uses a **fine-tuned CLIP visual
 encoder** to embed images, and **PostgreSQL + pgvector** to run fast nearest-neighbor
