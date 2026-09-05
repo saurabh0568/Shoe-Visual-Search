@@ -1,0 +1,9 @@
+spaces
+torch
+git+https://github.com/openai/CLIP.git
+pillow
+numpy
+psycopg2-binary
+pgvector
+python-dotenv
+tqdm
